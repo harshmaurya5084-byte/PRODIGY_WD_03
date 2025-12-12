@@ -1,3 +1,8 @@
+# Task 04 : 🎮 Tic Tac Toe web apllication 
+# Name: Harsh maurya
+# live demo: https://harshmaurya5084-byte.github.io/PRODIGY_WD_03/
+# prodigy infotech
+
 # 🎮 Tic Tac Toe Game
 
 A modern, interactive Tic Tac Toe web application built with HTML, CSS, and JavaScript. Play against a friend or challenge an intelligent AI opponent!
