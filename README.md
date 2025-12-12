@@ -1,4 +1,4 @@
-# Task 04 : 🎮 Tic Tac Toe web apllication 
+# Task 03 : 🎮 Tic Tac Toe web apllication 
 # Name: Harsh maurya
 # live demo: https://harshmaurya5084-byte.github.io/PRODIGY_WD_03/
 # prodigy infotech
